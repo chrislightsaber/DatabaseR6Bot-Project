@@ -1,3 +1,5 @@
+#This is a school Project
+
 To Run this, simply install discord (or use the web app) and create an account as well as a discord server.
 Then invite the bot to your discord server, and use any of the following commands.
 Link: https://discord.com/oauth2/authorize?client_id=1204233624925511691&permissions=8&scope=bot
